@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Moonly.gg"];
+const statusMessages = ["Watching Ekstraklasa TV, Watching Spocony_218, Loving Śląsk Wrocław"];
 
 
 let currentIndex = 0;
