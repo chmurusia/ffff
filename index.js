@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Ekstraklasa TV, Watching Spocony_218, Loving Śląsk Wrocław"];
+const statusMessages = ["Watching Ekstraklasa TV", "Watching Spocony_218", "Loving Śląsk Wrocław"];
 
 
 let currentIndex = 0;
