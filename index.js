@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["verifies"];
+const statusMessages = ["Working."];
 
 
 let currentIndex = 0;
