@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching chonorata", "Watching Spocony_218", "Watching platnoscwyuanach_"];
+const statusMessages = ["verifies"];
 
 
 let currentIndex = 0;
