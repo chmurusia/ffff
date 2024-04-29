@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Oficiall Discord's message"];
+const statusMessages = ["Oficial Discord's message"];
 
 
 let currentIndex = 0;
