@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/ehools🎉"];
+const statusMessages = ["jebanie arki gdynia, jebanie zaglebie lubin, jebanie cracovii, jebanie lecha"];
 
 
 let currentIndex = 0;
